@@ -1,0 +1,9 @@
+We need a database for a shop that sells electronics, mainly computer parts. The shop sells computers including Desktops and Laptops, as well as accessories for these devices.
+
+A customer who wishes to buy a Desktop can choose between different component options, including Sound Card, Memory, and Video Card options. Meanwhile, a customer who wishes to buy a Laptop can only choose between different memory options.
+
+A computer includes a pre-installed Operating System as well as some software that comes along with it.
+
+Accessories that are sold with the computer consist of 3 main categories, namely, Keyboards, Mice, and Monitors.
+
+Of course, all the entities mentioned above possess some basic attributes, such as the Manufacturing Company and the Color of an accessory. The License and Publishing Party of a piece of software. The weight of a Laptop, and the Type of Inputs on a sound card.
