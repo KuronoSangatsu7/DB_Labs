@@ -1,0 +1,6 @@
+From step 1 to step 4: If we make modifications from one terminal and try to access the data from another one simultaneosly, we notice that the second terminal does not show the new modifications. This happened because the read committed isolation prenvents dirty reads.
+
+Step 5: we can see that both the terminals shows the same results because of the commit in the second terminal terminal.
+
+Step 7 to 8: When trying to update the balance of Alice in the second terminal, the transaction was cancelled because this cell was being edited in another transaction and it is not available yet.
+
